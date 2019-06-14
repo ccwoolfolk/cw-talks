@@ -13,9 +13,18 @@
 
 - In a single phrase, graphical integrity
   - Treat your readers like intelligent, mature adults
-  - Be explicit about the comparisons you are inviting the reader to make
+    - Worthwhile, interesting data
+    - High information density
+  - Show the data
+    - Axis placement
+  - Be explicit about the comparisons you are inviting the reader to make (and make them in good faith)
   - Don't reinforce systematic biases in human perception
     - Pie charts
+- Integrated graphics -- graphs, text, maps, annotations
+- Visualizations should be beautiful
+  - Not the same as "visualizations should be embellished"
+  - Like all good art, should have a message worth communicating
+- [Another take](https://moz.com/blog/data-visualization-principles-lessons-from-tufte)
 
 ## A few measures
 
@@ -25,14 +34,19 @@
 
 ## Good examples
 
-- Napolean's march to the sea
+- [Napolean's march to the sea](https://thoughtbot.com/blog/analyzing-minards-visualization-of-napoleons-1812-march)
 
 ## Bad examples
 
-- http://mammothinfographics.com/blog/the-top-10-worst-infographics-of-all-time
+- [10 Worst Infographics](http://mammothinfographics.com/blog/the-top-10-worst-infographics-of-all-time)
   - NSW Health
   - Boomers chart
+- [When Infographics Go Bad](https://www.designyourway.net/blog/inspiration/when-infographics-go-bad-or-how-not-to-design-data-visualization/)
+  - Recursive donuts
+  - 20 Obamas
 
 ## Resources
 
-- https://edwardtufte.github.io/tufte-css/
+- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [LaTeX](https://tufte-latex.github.io/tufte-latex/) ([example handout](http://mirrors.concertpass.com/tex-archive/macros/latex/contrib/tufte-latex/sample-handout.pdf))
+- [R Markdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html)
