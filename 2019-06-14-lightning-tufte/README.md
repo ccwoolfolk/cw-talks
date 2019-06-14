@@ -29,8 +29,16 @@
 ## A few measures
 
 - Lie factor
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=Lie\;Factor&space;=&space;\frac{size\;of\;effect\;shown\;in\;graphic}{size\;of\;effect\;in\;data}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Lie\;Factor&space;=&space;\frac{size\;of\;effect\;shown\;in\;graphic}{size\;of\;effect\;in\;data}" title="Lie\;Factor = \frac{size\;of\;effect\;shown\;in\;graphic}{size\;of\;effect\;in\;data}" /></a>
+
 - Data ink ratio
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=Data\;Ink\;Ratio&space;=&space;\frac{data\;ink}{total\;ink\;used\;to\;print\;the\;graphic}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Data\;Ink\;Ratio&space;=&space;\frac{data\;ink}{total\;ink\;used\;to\;print\;the\;graphic}" title="Data\;Ink\;Ratio = \frac{data\;ink}{total\;ink\;used\;to\;print\;the\;graphic}" /></a>
+
 - Data density of a display
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=data\;density\;of\;a\;display&space;=&space;\frac{number\;of\;entries\;in\;data\;matrix}{area\;of\;data\;display}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?data\;density\;of\;a\;display&space;=&space;\frac{number\;of\;entries\;in\;data\;matrix}{area\;of\;data\;display}" title="data\;density\;of\;a\;display = \frac{number\;of\;entries\;in\;data\;matrix}{area\;of\;data\;display}" /></a>
 
 ## Good examples
 
